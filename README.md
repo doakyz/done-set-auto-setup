@@ -11,11 +11,3 @@ https://archive.org/details/done-set
 As Windows has the highest install base, a windows tool is the primary focus for initial development.
 
 I am not a windows developer, I make no promises of quality.
-
-# How to
-    1. Download Best Set
-    2. Copy powershell script into downloaded folder
-![Example](image.png)
-  
-    3. Run powershell script
-
