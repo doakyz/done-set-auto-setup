@@ -109,7 +109,7 @@ function Prompt-AdditionalZipFiles {
     return $additionalZipFiles
 }
 
-# Zip files for 64GB storage
+# Zip files for 32GB storage
 $additionalZipFilesFor32GB = @(
     "Games + BIOS 32 GB (Base Set).zip"
 )
@@ -120,7 +120,7 @@ $additionalZipFilesFor64GB = @(
     "Games 64 GB Expansion.zip"
 )
 
-# Zip files for 64GB storage
+# Zip files for 128GB storage
 $additionalZipFilesFor128GB = @(
     "Games + BIOS 32 GB (Base Set).zip",
     "Games 64 GB Expansion.zip",
